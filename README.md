@@ -1,1 +1,1 @@
-heyyyyy this a visual novel ( under development)
+heyyyyy this is a visual novel ( under development)
