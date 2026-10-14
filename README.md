@@ -6,6 +6,11 @@ What starts as an ordinary school day slowly turns into something much stranger.
 
 As the story unfolds, Sasha must uncover what happened, understand the truth behind the loop, and find a way to break it.
 
+
+#### character sprites credit:sutemo
+(https://sutemo.itch.io/)
+#### bg : potat0master
+[potat0master](https://potat0master.itch.io/)
  **Made with:** Ren’Py
  **Genre:** Mystery • Drama • Supernatural
  **Type:** Story-driven Visual Novel
